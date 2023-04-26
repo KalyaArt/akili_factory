@@ -8,9 +8,9 @@
 #define BLYNK_PRINT Serial
 
 /* Fill in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPL2_lozNc5p"
-#define BLYNK_TEMPLATE_NAME "Aeroponics"
-#define BLYNK_AUTH_TOKEN "ZvkTntJ8D2siPvH1MQcwqDUOB_fiIPeg"
+#define BLYNK_TEMPLATE_ID "TMPL25mfVvli-"
+#define BLYNK_TEMPLATE_NAME "pushdataesp8266"
+#define BLYNK_AUTH_TOKEN "md1f_zl0uu4tex4crUrkHFrnrCVXX684"
 
 BlynkTimer timer;
 

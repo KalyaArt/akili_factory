@@ -10,8 +10,8 @@
 
 /* Fill in information from Blynk Device Info here */
 #define BLYNK_TEMPLATE_ID "TMPL2_lozNc5p"
-#define BLYNK_TEMPLATE_NAME "Aeroponics"
-#define BLYNK_AUTH_TOKEN "ZvkTntJ8D2siPvH1MQcwqDUOB_fiIPeg"
+#define BLYNK_TEMPLATE_NAME "pushdataesp32"
+#define BLYNK_AUTH_TOKEN "9XB8pd4rtCEyDPzOSfr11i3QUZTfq_hi"
 
 BlynkTimer timer;
 
