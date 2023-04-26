@@ -2,8 +2,9 @@
  * Download the blynk library by Volodymyr Shymanskyy
  * from your library manager
  */
-#include <ESP8266WiFi.h>
-#include <BlynkSimpleEsp8266.h>
+#include <WiFi.h>
+#include <WiFiClient.h>
+#include <BlynkSimpleEsp32.h>
 
 #define BLYNK_PRINT Serial
 
